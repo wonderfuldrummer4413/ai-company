@@ -8,10 +8,8 @@
 ## ベースURL
 
 ```
-https://note.com/takuhai_gogo/n/XXXXX
+https://note.com/loyal_magpie5946/n/na4b4822e86de
 ```
-
-> ※ `XXXXX` の部分を実際のnote記事IDに置き換えてください
 
 ---
 
@@ -20,7 +18,7 @@ https://note.com/takuhai_gogo/n/XXXXX
 ### Xプロフィール用
 
 ```
-https://note.com/takuhai_gogo/n/XXXXX?utm_source=x&utm_medium=profile&utm_campaign=amazon_delivery
+https://note.com/loyal_magpie5946/n/na4b4822e86de?utm_source=x&utm_medium=profile&utm_campaign=amazon_delivery
 ```
 
 - 貼る場所: Xプロフィールの「ウェブサイト」欄
@@ -29,7 +27,7 @@ https://note.com/takuhai_gogo/n/XXXXX?utm_source=x&utm_medium=profile&utm_campai
 ### X投稿用（将来リンクを貼る場合）
 
 ```
-https://note.com/takuhai_gogo/n/XXXXX?utm_source=x&utm_medium=post&utm_campaign=amazon_delivery
+https://note.com/loyal_magpie5946/n/na4b4822e86de?utm_source=x&utm_medium=post&utm_campaign=amazon_delivery
 ```
 
 - 用途: X投稿に直接リンクを貼る場合（フォロワー増加後）
@@ -38,15 +36,15 @@ https://note.com/takuhai_gogo/n/XXXXX?utm_source=x&utm_medium=post&utm_campaign=
 ### 無料note記事からの誘導用
 
 ```
-https://note.com/takuhai_gogo/n/XXXXX?utm_source=note&utm_medium=free_article_1&utm_campaign=amazon_delivery
+https://note.com/loyal_magpie5946/n/na4b4822e86de?utm_source=note&utm_medium=free_article_1&utm_campaign=amazon_delivery
 ```
 
 ```
-https://note.com/takuhai_gogo/n/XXXXX?utm_source=note&utm_medium=free_article_2&utm_campaign=amazon_delivery
+https://note.com/loyal_magpie5946/n/na4b4822e86de?utm_source=note&utm_medium=free_article_2&utm_campaign=amazon_delivery
 ```
 
 ```
-https://note.com/takuhai_gogo/n/XXXXX?utm_source=note&utm_medium=free_article_3&utm_campaign=amazon_delivery
+https://note.com/loyal_magpie5946/n/na4b4822e86de?utm_source=note&utm_medium=free_article_3&utm_campaign=amazon_delivery
 ```
 
 - 貼る場所: 無料note記事3本それぞれの末尾CTA
@@ -55,7 +53,7 @@ https://note.com/takuhai_gogo/n/XXXXX?utm_source=note&utm_medium=free_article_3&
 ### LitLink / リンクまとめ用
 
 ```
-https://note.com/takuhai_gogo/n/XXXXX?utm_source=litlink&utm_medium=link&utm_campaign=amazon_delivery
+https://note.com/loyal_magpie5946/n/na4b4822e86de?utm_source=litlink&utm_medium=link&utm_campaign=amazon_delivery
 ```
 
 - 用途: LitLinkやlit.linkなどプロフまとめサービスに貼る場合
@@ -99,8 +97,8 @@ noteの標準ダッシュボードではUTMパラメータを確認できない�
 
 ## 今すぐやること
 
-1. [ ] noteの有料記事URLの `XXXXX` 部分を確認する
-2. [ ] 上記リンクの `XXXXX` を実際の記事IDに置き換える
+1. [x] noteの有料記事URLを確認済み
+2. [x] 全リンクに実際の記事URLを反映済み
 3. [ ] Bitlyでアカウント作成し、各リンクを短縮する
 4. [ ] XプロフィールのURL欄にBitly短縮リンクを設置する
 5. [ ] 無料note記事を公開する際、各記事末尾に対応するリンクを設置する
